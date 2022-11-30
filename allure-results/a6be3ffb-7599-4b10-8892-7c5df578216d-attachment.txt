@@ -1,0 +1,1 @@
+https://magento.softwaretestingboard.com/pub/static/version1666447838/frontend/Magento/luma/en_US/jquery/jquery-migrate.js 7:265 "JQMIGRATE: jQuery.attrFn is deprecated"
